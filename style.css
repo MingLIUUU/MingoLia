@@ -217,7 +217,7 @@ header .navbar a {
     min-height: 100vh;
 
     background-size: cover;
-    background-position: center;
+    background-position: left;
     transition: background-image 0.5s ease-in-out;
     opacity: 0;
 }
@@ -248,7 +248,7 @@ header .navbar a {
     background-color: rgba(0,0,0,0.8);
 }
 
-.bgcover {
+.home .bgcover {
     left: 0;
     right: 0;
     bottom: 0;
