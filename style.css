@@ -250,6 +250,7 @@ header .navbar a {
 
 .home .bgcover {
     left: 0;
+    bottom: 0;
 
     background: linear-gradient(to top, rgba(0, 0, 0, 1) 0%, transparent 15%);
     display: flex;
